@@ -1,0 +1,210 @@
+.top-adds{
+    width: 100%;
+    background-color:#cecfcd ;
+    height: 105px;
+    text-align: center;
+}
+.top-img{
+    padding: 10px;
+    align-items: center;
+}
+.contain{
+    box-sizing: content-box;
+   
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 80px;
+    margin-right: 105px;
+}
+.top-bar{
+
+    padding: 10px;
+    
+    
+    max-height: 98px;
+    overflow: hidden;
+}
+.top-bar-img img{
+    width: 275px;
+}
+.phone{
+    text-align: left;
+    
+    top: 59px;
+}
+.tel{
+    color:black;
+    font-weight: 300;
+    font-size: 18px;
+}
+.contact-col{
+    text-align: right;
+    
+}
+.contact img{
+    
+    width: 30px;
+    padding: 2px;
+}
+
+.drop-down{
+    margin-top: 5px;
+    
+    float: right;
+    height: 25px;
+    
+    width: 158px;
+    border: 1px solid gray;
+    text-align: left;
+    overflow: hidden;
+}
+.drop-down i{
+    padding: 4px  ;
+    color: blue; 
+    float: left;
+}
+.drop-down p{
+    
+    font-size: 14px;
+}
+.side-top {
+    background-color: #525552 ;
+    padding: 10px 1px;
+    height: 70px;
+}
+.side-top img{
+    width: 40px;
+}
+.right-top-txt p{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    padding-right: 40px;
+
+}
+.top-right-signup{
+    background-color: #314142;
+    height: 30px;
+
+}
+.top-right-signup p{
+    color: white;
+    font-size: 14px;
+    padding: 2px 15px;
+}
+.navbar-nav .nav-item a{
+    font-size: 16px;
+    font-weight: 700;
+    border-right: 1px solid lightgray;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: red;
+}
+.menu-side{
+    background-color: #e5e6e6;
+    height: 30px;
+
+}
+.main-bar-left{
+    background-color: #4980d2;
+}
+.main-bar-middle{
+    background-color: #cecfcd;
+    padding: 2px 50px;
+}
+
+.main-bar-right{
+    background-color: #e6003e;
+}
+
+.job-search h5{
+    padding-top: 4px;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+}
+.job-search .drop-down{
+    width: 110px;
+    /* padding-top: 4px; */
+    background-color: white;
+    height: 22px;
+    vertical-align: middle;
+}
+.job-search button{
+    font-size: 13px;
+    font-weight: 300;
+    color: wheat;
+    border: none;
+    background-color: #2d6187;
+    
+    
+}
+.main-bar-middle .drop-down{
+    width: 200px;
+    background-color: white;
+    height: 22px;
+
+    
+}
+.main-bar-right h5{
+    color: white;
+    padding-left: 10px;
+    padding-top: 8px;
+    font-size: 18px;
+}
+.body .drop-down{
+    float: left;
+}
+.radio-btn{
+    font-size: 14px;
+    font-weight: 400;
+}
+.search  input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+    margin-right:  0px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    font-size: 14px;
+    background-color: #ffffff;
+    background-image: url('searchicon.png');
+    background-position: 8px 8px;
+    background-size: 15px;
+    overflow: hidden;
+    outline: none;
+    background-repeat: no-repeat;
+    padding: 4px 20px 4px 40px;
+  
+  }
+  .adds img{
+      width: 100%;
+  }
+  .left-middle-post{
+    background-color: lightgray;
+    margin-top: 10px;
+    max-width: 170px;
+
+  }
+  .left-middle-post img{
+      width: 100%;
+      
+  } 
+   .share{
+      background-color: gray;
+  }
+  .left-most-post{
+      background-color: lightgray;
+      margin-top: 10px;
+      ma
+  }
+  .left-most-post img{
+      width: 100%;
+  }
+  .bottom-adds{
+      
+      text-align: center;
+      width: 100%;
+      background-color: lightslategrey;
+      bottom: 0px;
+      
+  }
